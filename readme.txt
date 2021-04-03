@@ -1,2 +1,13 @@
-Hi there i'm Hafiz Aamir
-i'm a student internee.
+## Run Project
+
+Clone the project from following command: 
+
+```sh
+$ git clone https://github.com/devaamir92/demo.git
+```
+
+```sh
+$ cd demo
+```
+
+Run `index.html` file.
